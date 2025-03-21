@@ -1,6 +1,6 @@
 AI-Powered Medical Diagnosis System
 📌 Overview
-This project is an AI-driven medical diagnosis system that detects pneumonia from chest X-ray images using Deep Learning (CNNs). It provides a FastAPI-based backend for real-time predictions and is Dockerized for easy deployment.
+This project is an AI-driven medical diagnosis system that detects pneumonia from chest X-ray images using Deep Learning (CNNs). It provides a FastAPI-based backend for real-time predictions and is Dockerized for easy deployment
 
 🚀 Features
 ✅ Deep Learning Model (CNN) trained on medical images
